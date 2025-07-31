@@ -1,10 +1,11 @@
 
 Terrier editor
 --------------
-Secure text editor with encryption
+Secure text editor with encryption for Linux.
+Forked from [l3afpad](https://github.com/stevenhoneyman/l3afpad) and added encryption
 
 ### How to use
-Download qq from "Releases", unzip, run qq
+Download latest terrier.zip from "Releases", unzip, run terrier
 
 ### Build from source
 Terrier requires:
@@ -18,8 +19,10 @@ and for building also:
 
 Simple compile and install procedure:
 ```
-$ tar xzvf terrier-x.x.x.tar.gz       # unpack the sources
-$ cd terrier-x.x.x                    # change to the toplevel directory
+[ For Ubuntu ]
+$ apt install automake intltool libgtk-3-dev libsodium-dev
+$ unzip terrier-main.zip              # unpack the sources
+$ cd terrier-main                     # change to the toplevel directory
 $ ./autogen.sh                        # generate the `configure' script
 $ ./configure                         # run the `configure' script
 $ make                                # build Terrier
