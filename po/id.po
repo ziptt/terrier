@@ -1,0 +1,310 @@
+# Indonesian translations for terrier.
+# Copyright (C) 2008 THE terrier'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the terrier package.
+# Andhika Padmawan <andhika.padmawan@gmail.com>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: terrier-0.8.16\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-05 17:27+0200\n"
+"PO-Revision-Date: 2009-06-25 21:35+0700\n"
+"Last-Translator: Andhika Padmawan <andhika.padmawan@gmail.com>\n"
+"Language-Team: Indonesian <translation-team-id@lists.sourceforge.net>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Indonesian\n"
+"X-Poedit-Country: INDONESIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: ../src/menu.c:34
+msgid "_File"
+msgstr "_Berkas"
+
+#: ../src/menu.c:35
+msgid "_Edit"
+msgstr "_Sunting"
+
+#: ../src/menu.c:36
+msgid "_Search"
+msgstr "_Telusur"
+
+#: ../src/menu.c:37
+msgid "_Options"
+msgstr "_Opsi"
+
+#: ../src/menu.c:38
+msgid "_Help"
+msgstr "B_antuan"
+
+#: ../src/menu.c:39
+msgid "_New"
+msgstr "_Baru"
+
+#: ../src/menu.c:40
+msgid "_Open..."
+msgstr "B_uka..."
+
+#: ../src/menu.c:41
+msgid "_Save"
+msgstr "_Simpan"
+
+#: ../src/menu.c:42
+msgid "Save _As..."
+msgstr "Simpan Se_bagai..."
+
+#: ../src/menu.c:44
+msgid "Sta_tistics..."
+msgstr ""
+
+#: ../src/menu.c:47
+msgid "Print Pre_view"
+msgstr "Pra_tayang Cetak"
+
+#: ../src/menu.c:48
+msgid "_Print..."
+msgstr "_Cetak..."
+
+#: ../src/menu.c:50
+msgid "_Quit"
+msgstr "_Keluar"
+
+#: ../src/menu.c:51
+msgid "_Undo"
+msgstr "_Tak Jadi"
+
+#: ../src/menu.c:52
+msgid "_Redo"
+msgstr "Jadi _Lagi"
+
+#: ../src/menu.c:53
+msgid "Cu_t"
+msgstr "Po_tong"
+
+#: ../src/menu.c:54
+msgid "_Copy"
+msgstr "_Salin"
+
+#: ../src/menu.c:55
+msgid "_Paste"
+msgstr "_Rekat"
+
+#: ../src/menu.c:56
+msgid "_Delete"
+msgstr "_Hapus"
+
+#: ../src/menu.c:57
+msgid "Select _All"
+msgstr "_Pilih Semua"
+
+#: ../src/menu.c:58
+msgid "_Find..."
+msgstr "_Cari..."
+
+#: ../src/menu.c:59
+msgid "Find _Next"
+msgstr "Cari Selan_jutnya"
+
+#: ../src/menu.c:60
+msgid "Find _Previous"
+msgstr "Cari _Sebelumnya"
+
+#: ../src/menu.c:61
+msgid "_Replace..."
+msgstr "_Ganti..."
+
+#: ../src/menu.c:62
+msgid "_Jump To..."
+msgstr "_Lompat Ke..."
+
+#: ../src/menu.c:63
+msgid "_Font..."
+msgstr "_Fonta..."
+
+#: ../src/menu.c:64
+msgid "_About"
+msgstr "_Tentang"
+
+#: ../src/menu.c:71
+msgid "_Word Wrap"
+msgstr "_Pas Kata"
+
+#: ../src/menu.c:72
+msgid "_Line Numbers"
+msgstr "_Nomor Baris"
+
+#: ../src/menu.c:73
+msgid "_Auto Indent"
+msgstr "Inden _Otomatis"
+
+#: ../src/callback.c:139
+msgid "<b>Statistics</b>"
+msgstr ""
+
+#: ../src/callback.c:330
+msgid "GTK+ based simple text editor"
+msgstr "Penyunting teks sederhana berbasis GTK+"
+
+#: ../src/callback.c:338
+msgid "translator-credits"
+msgstr "Andhika Padmawan <andhika.padmawan@gmail.com>, 2008"
+
+#: ../src/callback.c:349
+msgid "Terrier"
+msgstr "Terrier"
+
+#: ../src/view.c:65
+#, c-format
+msgid "Save changes to '%s'?"
+msgstr "Simpan perubahan ke '%s'?"
+
+#: ../src/font.c:36
+msgid "Font"
+msgstr "Fonta"
+
+#: ../src/selector.c:95
+#, c-format
+msgid "Current Locale (%s)"
+msgstr "Lokalisasi saat ini (%s)"
+
+#: ../src/selector.c:126
+msgid "Other Codeset"
+msgstr "Set Sandi Lain"
+
+#: ../src/selector.c:155 ../src/selector.c:302 ../src/dialog.c:68
+msgid "_Cancel"
+msgstr ""
+
+#: ../src/selector.c:156 ../src/dialog.c:42
+msgid "_OK"
+msgstr ""
+
+#: ../src/selector.c:165
+msgid "Code_set:"
+msgstr "Set _sandi:"
+
+#: ../src/selector.c:189
+#, c-format
+msgid "'%s' is not supported"
+msgstr "'%s' tak didukung"
+
+#: ../src/selector.c:249
+msgid "Auto-Detect"
+msgstr "Deteksi Otomatis"
+
+#: ../src/selector.c:298
+msgid "Open"
+msgstr "Buka"
+
+#: ../src/selector.c:298
+msgid "Save As"
+msgstr "Simpan Sebagai"
+
+#: ../src/selector.c:303
+#, fuzzy
+msgid "_Open"
+msgstr "Buka"
+
+#: ../src/selector.c:303
+#, fuzzy
+msgid "_Save As"
+msgstr "Simpan Sebagai"
+
+#: ../src/selector.c:312
+msgid "C_haracter Coding:"
+msgstr "Pen_yandian Karakter:"
+
+#: ../src/selector.c:369
+#, c-format
+msgid "'%s' already exists. Overwrite?"
+msgstr "'%s' telah ada. Timpa?"
+
+#: ../src/file.c:49
+msgid "Untitled"
+msgstr "Tak ada judul"
+
+#: ../src/file.c:204
+#, c-format
+msgid "Can't convert codeset to '%s'"
+msgstr "Tak dapat konversi set sandi ke '%s'"
+
+#: ../src/file.c:217
+msgid "Can't open file to write"
+msgstr "Tak dapat buka berkas untuk ditulis"
+
+#: ../src/file.c:222
+msgid "Can't write file"
+msgstr "Tak dapat menulis berkas"
+
+#: ../src/file.c:275
+#, c-format
+msgid ""
+"<u>Totals count</u>\n"
+"Chars: %7d Words: %6d Lines: %5d\n"
+"\n"
+"<u>Selection</u>\n"
+"Chars: %7d Words: %6d Lines: %5d\n"
+msgstr ""
+
+#: ../src/search.c:129
+msgid "Search string not found"
+msgstr "Telusur tali tak ditemukan"
+
+#: ../src/search.c:182
+msgid "Replace?"
+msgstr "Ganti?"
+
+#: ../src/search.c:245
+#, c-format
+msgid "%d strings replaced"
+msgstr "%d tali diganti!"
+
+#: ../src/search.c:308
+msgid "Replace"
+msgstr "Ganti"
+
+#: ../src/search.c:315
+msgid "Find"
+msgstr "Cari"
+
+#: ../src/search.c:327
+msgid "Fi_nd what:"
+msgstr "Ca_ri apa:"
+
+#: ../src/search.c:373
+msgid "Re_place with:"
+msgstr "Ga_nti dengan:"
+
+#: ../src/search.c:396 ../src/search.c:410
+msgid "_Match case"
+msgstr "_Cocokkan huruf"
+
+#: ../src/search.c:402
+msgid "Replace _all at once"
+msgstr "Ganti semu_a sekaligus"
+
+#: ../src/search.c:469
+msgid "Jump To"
+msgstr "Lompat Ke"
+
+#: ../src/search.c:474
+msgid "_Jump"
+msgstr "_Lompat"
+
+#: ../src/search.c:481
+msgid "_Line number:"
+msgstr "_Nomor baris:"
+
+#: ../src/dialog.c:67
+msgid "_No"
+msgstr ""
+
+#: ../src/dialog.c:69
+msgid "_Yes"
+msgstr ""
+
+#: ../data/terrier.desktop.in.h:2
+msgid "Simple text editor"
+msgstr "Penyunting teks sederhana"

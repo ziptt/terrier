@@ -1,0 +1,11 @@
+[Desktop Entry]
+_Name=Terrier
+_Comment=Simple text editor
+Exec=terrier %f
+Icon=terrier
+Terminal=false
+Type=Application
+MimeType=text/plain;
+Categories=GTK;Utility;TextEditor;
+Keywords=text;editor;
+InitialPreference=6;

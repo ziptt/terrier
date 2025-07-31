@@ -1,0 +1,319 @@
+# Hungarian translation of Terrier
+# Copyright (C) 2007 Free Software Foundation, Inc.
+# This file is distributed under the same license as the terrier package.
+# Reviczky Ádám János <reviczky@freemail.hu>, 2007.
+# Kalman Kemenczy <kkemenczy@gmail.com>, 2010
+# Balló György <ballogyor@gmail.com>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: terrier-0.8.16\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-05 17:27+0200\n"
+"PO-Revision-Date: 2015-07-05 17:28+0200\n"
+"Last-Translator: Balló György <ballogyor@gmail.com>\n"
+"Language-Team: magyar <>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Gtranslator 2.91.7\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: ../src/menu.c:34
+msgid "_File"
+msgstr "_Fájl"
+
+#: ../src/menu.c:35
+msgid "_Edit"
+msgstr "S_zerkesztés"
+
+#: ../src/menu.c:36
+msgid "_Search"
+msgstr "_Keresés"
+
+#: ../src/menu.c:37
+msgid "_Options"
+msgstr "_Beállítások"
+
+#: ../src/menu.c:38
+msgid "_Help"
+msgstr "_Súgó"
+
+#: ../src/menu.c:39
+msgid "_New"
+msgstr "Ú_j"
+
+#: ../src/menu.c:40
+msgid "_Open..."
+msgstr "_Megnyitás..."
+
+#: ../src/menu.c:41
+msgid "_Save"
+msgstr "M_entés"
+
+#: ../src/menu.c:42
+msgid "Save _As..."
+msgstr "Men_tés máskent..."
+
+#: ../src/menu.c:44
+msgid "Sta_tistics..."
+msgstr "_Statisztika..."
+
+#: ../src/menu.c:47
+msgid "Print Pre_view"
+msgstr "N_yomtatási kép"
+
+#: ../src/menu.c:48
+msgid "_Print..."
+msgstr "_Nyomtatás..."
+
+#: ../src/menu.c:50
+msgid "_Quit"
+msgstr "_Kilépés"
+
+#: ../src/menu.c:51
+msgid "_Undo"
+msgstr "_Visszavonás"
+
+#: ../src/menu.c:52
+msgid "_Redo"
+msgstr "Ú_jra"
+
+#: ../src/menu.c:53
+msgid "Cu_t"
+msgstr "_Kivágás"
+
+#: ../src/menu.c:54
+msgid "_Copy"
+msgstr "_Másolás"
+
+#: ../src/menu.c:55
+msgid "_Paste"
+msgstr "_Beillesztés"
+
+#: ../src/menu.c:56
+msgid "_Delete"
+msgstr "_Törlés"
+
+#: ../src/menu.c:57
+msgid "Select _All"
+msgstr "M_indet kijelöli"
+
+#: ../src/menu.c:58
+msgid "_Find..."
+msgstr "_Keresés..."
+
+#: ../src/menu.c:59
+msgid "Find _Next"
+msgstr "Kö_vetkező keresése"
+
+#: ../src/menu.c:60
+msgid "Find _Previous"
+msgstr "_Előző keresése"
+
+#: ../src/menu.c:61
+msgid "_Replace..."
+msgstr "_Csere..."
+
+#: ../src/menu.c:62
+msgid "_Jump To..."
+msgstr "_Ugrás..."
+
+#: ../src/menu.c:63
+msgid "_Font..."
+msgstr "_Betütípus..."
+
+#: ../src/menu.c:64
+msgid "_About"
+msgstr "_Névjegy"
+
+#: ../src/menu.c:71
+msgid "_Word Wrap"
+msgstr "_Sortörés"
+
+#: ../src/menu.c:72
+msgid "_Line Numbers"
+msgstr "S_orok számozása"
+
+#: ../src/menu.c:73
+msgid "_Auto Indent"
+msgstr "_Automatikus behúzás"
+
+#: ../src/callback.c:139
+msgid "<b>Statistics</b>"
+msgstr "<b>Statisztika</b>"
+
+#: ../src/callback.c:330
+msgid "GTK+ based simple text editor"
+msgstr "GTK+-ra épülő egyszerű szöveg szerkesztő"
+
+#: ../src/callback.c:338
+msgid "translator-credits"
+msgstr ""
+"Reviczky Ádám János <reviczky@freemail.hu>\n"
+"Kéménczy Kálmán <kkemenczy@gmail.com>"
+
+#: ../src/callback.c:349
+msgid "Terrier"
+msgstr "Terrier"
+
+#: ../src/view.c:65
+#, c-format
+msgid "Save changes to '%s'?"
+msgstr "Elmenti a változásokat ide: „%s”?"
+
+#: ../src/font.c:36
+msgid "Font"
+msgstr "Betűkészlet"
+
+#: ../src/selector.c:95
+#, c-format
+msgid "Current Locale (%s)"
+msgstr "Jelenlegi nyelv (%s)"
+
+#: ../src/selector.c:126
+msgid "Other Codeset"
+msgstr "Más kódtábla"
+
+#: ../src/selector.c:155 ../src/selector.c:302 ../src/dialog.c:68
+msgid "_Cancel"
+msgstr "_Mégse"
+
+#: ../src/selector.c:156 ../src/dialog.c:42
+msgid "_OK"
+msgstr "_OK"
+
+#: ../src/selector.c:165
+msgid "Code_set:"
+msgstr "_Kódtábla:"
+
+#: ../src/selector.c:189
+#, c-format
+msgid "'%s' is not supported"
+msgstr "A(z) „%s” nem támogatott"
+
+#: ../src/selector.c:249
+msgid "Auto-Detect"
+msgstr "Automatikus felismerés"
+
+#: ../src/selector.c:298
+msgid "Open"
+msgstr "Megnyitás"
+
+#: ../src/selector.c:298
+msgid "Save As"
+msgstr "Mentés másként"
+
+#: ../src/selector.c:303
+msgid "_Open"
+msgstr "_Megnyitás"
+
+#: ../src/selector.c:303
+msgid "_Save As"
+msgstr "_Mentés másként"
+
+#: ../src/selector.c:312
+msgid "C_haracter Coding:"
+msgstr "_Karakterkódolás:"
+
+#: ../src/selector.c:369
+#, c-format
+msgid "'%s' already exists. Overwrite?"
+msgstr "A(z) „%s” már létezik. Felülírja?"
+
+#: ../src/file.c:49
+msgid "Untitled"
+msgstr "Névtelen"
+
+#: ../src/file.c:204
+#, c-format
+msgid "Can't convert codeset to '%s'"
+msgstr "A kódtáblát nem lehet erre konvertálni: „%s”"
+
+#: ../src/file.c:217
+msgid "Can't open file to write"
+msgstr "Nem lehet a fájlt írásra megnyitni"
+
+#: ../src/file.c:222
+msgid "Can't write file"
+msgstr "Nem lehet a fájlt írni"
+
+#: ../src/file.c:275
+#, c-format
+msgid ""
+"<u>Totals count</u>\n"
+"Chars: %7d Words: %6d Lines: %5d\n"
+"\n"
+"<u>Selection</u>\n"
+"Chars: %7d Words: %6d Lines: %5d\n"
+msgstr ""
+"<u>Az összes számolva</u>\n"
+"Karakterek: %7d Szavak: %6d Sorok: %5d\n"
+"\n"
+"<u>Kijelölés</u>\n"
+"Karakterek: %7d Szavak: %6d Sorok: %5d\n"
+
+#: ../src/search.c:129
+msgid "Search string not found"
+msgstr "A keresett szöveg nem található"
+
+#: ../src/search.c:182
+msgid "Replace?"
+msgstr "Kicseréli?"
+
+#: ../src/search.c:245
+#, c-format
+msgid "%d strings replaced"
+msgstr "%d szövegrészlet kicserélve"
+
+#: ../src/search.c:308
+msgid "Replace"
+msgstr "Csere"
+
+#: ../src/search.c:315
+msgid "Find"
+msgstr "Keresés"
+
+#: ../src/search.c:327
+msgid "Fi_nd what:"
+msgstr "_Keresett szöveg:"
+
+#: ../src/search.c:373
+msgid "Re_place with:"
+msgstr "C_sere erre:"
+
+#: ../src/search.c:396 ../src/search.c:410
+msgid "_Match case"
+msgstr "K_is- és nagybetű különbözik"
+
+#: ../src/search.c:402
+msgid "Replace _all at once"
+msgstr "_Mindet egyszerre cseréli"
+
+#: ../src/search.c:469
+msgid "Jump To"
+msgstr "Ugrás ide"
+
+#: ../src/search.c:474
+msgid "_Jump"
+msgstr "_Ugrás"
+
+#: ../src/search.c:481
+msgid "_Line number:"
+msgstr "_Sor száma:"
+
+#: ../src/dialog.c:67
+msgid "_No"
+msgstr "_Nem"
+
+#: ../src/dialog.c:69
+msgid "_Yes"
+msgstr "_Igen"
+
+#: ../data/terrier.desktop.in.h:2
+msgid "Simple text editor"
+msgstr "Egyszerű szöveg szerkesztő"
