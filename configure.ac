@@ -1,4 +1,4 @@
-AC_INIT(Terrier, 0.8.18.1.11, stevenhoneyman@gmail.com)
+AC_INIT(Terrier, 0.8.18.2.2, name@example.com)
 AM_INIT_AUTOMAKE($PACKAGE_TARNAME, $PACKAGE_VERSION)
 AM_CONFIG_HEADER(config.h)
 AM_MAINTAINER_MODE([enable])
