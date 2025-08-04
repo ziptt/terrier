@@ -30,7 +30,6 @@
 #define FIRST_FORMAT 0x01
 
 gchar *password;
-gchar *enc_file;
 
 gboolean check_file_writable(gchar *filename)
 {
@@ -143,9 +142,7 @@ gint file_open_real(GtkWidget *view, FileInfo *fi)
 		return -1;
 	}
 
-	if (password == NULL || strcmp(password, "") == 0 || enc_file != fi->filename) {
-		password = get_user_input();
-	}
+	password = get_user_input();
 
 	if (password == NULL || strcmp(password, "") == 0) goto skipdec;
 
@@ -234,8 +231,6 @@ gint file_open_real(GtkWidget *view, FileInfo *fi)
 	force_unblock_cb_modified_changed(view);
 	menu_sensitivity_from_modified_flag(FALSE);
 //	undo_unblock_signal(buffer);
-
-	enc_file = fi->filename;
 
 	skipdec:
 
