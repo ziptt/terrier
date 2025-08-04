@@ -20,7 +20,7 @@ Simple compile and install procedure:
 ```
 [ For Ubuntu ]
 $ apt install automake intltool libgtk-3-dev libsodium-dev
-$ unzip terrier-main.zip              # unpack the sources
+$ unzip main.zip                      # unpack the sources
 $ cd terrier-main                     # change to the toplevel directory
 $ ./autogen.sh                        # generate the `configure' script
 $ ./configure                         # run the `configure' script
