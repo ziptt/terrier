@@ -28,3 +28,5 @@ $ make                                # build Terrier
 [ Become root if necessary ]
 # make install-strip                  # install Terrier
 ```
+
+My similar project: [vimterrier](https://github.com/ziptt/vimterrier)
