@@ -3,6 +3,8 @@ Terrier editor
 --------------
 Secure text editor with encryption for Linux. Forked from [l3afpad](https://github.com/stevenhoneyman/l3afpad) and added encryption
 
+<img width="945" height="546" alt="Screenshot" src="https://github.com/user-attachments/assets/ee97d640-437c-43be-bb93-f7be0e9d7cb4" />
+
 ### How to use
 Download latest terrier.zip from "Releases", unzip, run terrier
 
